@@ -12,7 +12,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/vitogd/)
 [![Dev.to](https://img.shields.io/badge/-dev&#46;to-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=dev.to&logoColor=white&link=https://dev.to/brennan)](https://dev.to/vitogd)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brennankbrown)](https://twitter.com/vitogd1)
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brennankbrown)](https://twitter.com/vitogd1) -->
 
 ## Technologies I'm studying:
 
