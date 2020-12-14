@@ -20,6 +20,7 @@
 
 ![C++](http://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![C#](http://img.shields.io/badge/-C%23-663399?style=flat-square&logo=c-sharp&logoColor=ffffff)
+![Java](http://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=ffffff)
 
 #### Front-end:
 
