@@ -34,10 +34,11 @@
 ![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square)
 ![MySQL](https://img.shields.io/badge/mysql-%23000f.svg?&style=flat-square&logo=mysql&logoColor=white)
 
+<!--- 
 #### Editors and Operating Systems:
 
 ![VS 2019](http://img.shields.io/badge/-VS%202019-663399?style=flat-square&logo=visual-studio&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff) -->
 
 <hr>
