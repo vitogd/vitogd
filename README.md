@@ -20,12 +20,12 @@
 
 ![C++](http://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![C#](http://img.shields.io/badge/-C%23-663399?style=flat-square&logo=c-sharp&logoColor=ffffff)
-![Java](http://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=ffffff)
+<!-- ![Java](http://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=ffffff) -->
 
 #### Front-end:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-![Typescript](https://img.shields.io/badge/-Typescript-336791?style=flat-square&logo=typescript)
+![Typescript](https://img.shields.io/badge/-Typescript-336791?style=flat-square&logo=typescript&&logoColor=FFFFFF&)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Sass](https://img.shields.io/badge/-SASS-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
@@ -34,6 +34,7 @@
 
 ![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square)
 ![MySQL](https://img.shields.io/badge/mysql-%23000f.svg?&style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=FFFFFF)
 
 <!--- 
 #### Editors and Operating Systems:
