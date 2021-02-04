@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Nexus Game Engine](https://github.com/vitogd/Nexus)
 
-- 🌱 I’m currently learning **C++, C# and JavaScript.**
+- 🌱 I’m currently learning **C++, C# and TypeScript.**
 
 - 📫 How to reach me **victorfelipe.guedes@hotmail.com**
 
